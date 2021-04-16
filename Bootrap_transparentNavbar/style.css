@@ -1,0 +1,31 @@
+
+.navbar-inverse {
+    background: transparent;
+    border-color: transparent;
+
+}
+
+.navbar-inverse .navbar-brand {
+    color: #000;
+    font-size: 40px;
+    padding: 40px 15px;
+    font-weight: 900;
+}
+
+.nav.navbar-nav.ml-auto {
+    margin: 25px 0;
+
+}
+
+.baner{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #000;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
